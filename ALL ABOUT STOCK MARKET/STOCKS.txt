@@ -1,0 +1,14 @@
+EMA parameter
+1.  iNDIAN ENERGY : 138
+2.  Relaxo : 871   		   (DAY , WEEK)
+3.  DIXON :3522    		   (DAY , WEEK)
+4.  LAURUS : 351   		   (DAY , WEEK)
+5.  AARTI : 569    		   (DAY , WEEK)
+6.  RELIANCE : 2476 
+7.  PIDLITE INDUSTRIE  : 2445 	   (WEEK)  
+8.  ASIAN PAINTS       : 2871          (WEEK)
+9.  C.E INFO SYSTEMS   : 1085          (WEEK)
+10. DEEPAK NITRITE     : 1925          (WEEK)
+11. DEEPAK FERTILIZER  : 683           (WEEK)
+12. SUMAYA CORPORATION : 16.50         (WEEK)
+13. TRIDENT            : 33.50         (WEEK)

@@ -1,0 +1,8 @@
+Intraday 15 min chart :
+1. TATA ELXI   --> 6625
+2. PIDILITIND  --> 2312
+3. ASIAN PAINT --> 2774
+4. RELIANCE    --> 2391
+5. MISHTHAN    --> 9.81
+6. SUUMAYA     --> 13.90
+7. CLEAN       --> 1361
